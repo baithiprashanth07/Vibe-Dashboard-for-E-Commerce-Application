@@ -137,7 +137,7 @@ vibe-dashboard/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vibe-dashboard.git
+git clone https://github.com/baithiprashanth07/-Vibe-Dashboard-for-E-Commerce-Application.git
 cd vibe-dashboard
 ```
 
