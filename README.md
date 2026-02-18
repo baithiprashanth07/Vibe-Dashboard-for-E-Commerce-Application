@@ -137,7 +137,7 @@ vibe-dashboard/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vibe-dashboard.git
+git clone https://github.com/baithiprashanth07/-Vibe-Dashboard-for-E-Commerce-Application.git
 cd vibe-dashboard
 ```
 
@@ -227,6 +227,9 @@ Run tests with:
 ```bash
 pnpm test
 ```
+## Website 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/707f4bb0-c8e1-4e0b-8d8d-63bad5b4d6e8" />
+
 
 ## Troubleshooting
 
